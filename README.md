@@ -1,10 +1,10 @@
 ### Welcome! 👋 
 I'm A.J.
 
-- 🇨🇦 I'm located in Vancouver, BC
-- 🔭 I currently working at [Hootsuite](https://www.hootsuite.com)
+- 🇨🇦 Based in Vancouver, BC
+- 🔭 I currently work at [Hootsuite](https://www.hootsuite.com)
 - 🌱 I’m currently learning how to build iOS and MacOS apps!
-- 🧑🏻‍💻 I’m looking to collaborate on anything
+- 🧑🏻‍💻 Open to collaborate on anything
 - 💬 Ask me about fitness, anime, games, and of course software development!
 
 ---
