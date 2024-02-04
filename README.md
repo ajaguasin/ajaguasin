@@ -3,7 +3,7 @@ I'm A.J.
 
 - 🇨🇦 Based in Vancouver, BC
 - 🔭 I currently work at [Hootsuite](https://www.hootsuite.com)
-- 🌱 I’m currently learning how to build iOS, MacOS apps, and games on Godot!
+- 🌱 I’m currently building a client management platform for personal trainers!
 - 🧑🏻‍💻 Open to collaborate on anything
 - 💬 Ask me about fitness, anime, games, and of course software development!
 
