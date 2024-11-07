@@ -3,9 +3,9 @@ I'm A.J.
 
 - 🇨🇦 Based in Vancouver, BC
 - 🔭 I currently work at [Hootsuite](https://www.hootsuite.com)
-- 🌱 I’m currently building a client management platform for personal trainers!
+- 🌱 I’m currently building iOS/MacOS apps on the side
 - 🧑🏻‍💻 Open to collaborate on anything
-- 💬 Ask me about fitness, anime, games, and of course software development!
+- ❤️ Fitness | anime | photography | software development
 
 ---
 
